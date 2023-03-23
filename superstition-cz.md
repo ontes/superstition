@@ -49,17 +49,17 @@ ISBN 978-1-62407-169-0
  - [**Část III(c): Účinky na cíle**](#část-iiic-účinky-na-cíle)
     - [Hrdost být okraden](#hrdost-být-okraden)
     - [Hrdost být ovládán](#hrdost-být-ovládán)
-    - [Dobří platí zlým](#dobří-platí-zlým)
+    - [Dobro platí zlo](#dobro-platí-zlo)
     - [Vlastnoručně kopaný hrob](#vlastnoručně-kopaný-hrob)
     - [Účinky na skutečné zločince](#účinky-na-skutečné-zločince)
  - [**Část III(d): Účinky na pozorovatele**](#část-iiid-účinky-na-pozorovatele)
-    - [Hřích nezdoru](#hřích-nezdoru)
+    - [Hřích nevzdoru](#hřích-nevzdoru)
     - ["Legální" zlo jako dobro](#legální-zlo-jako-dobro)
     - [Povinnost jednat špatně](#povinnost-jednat-špatně)
     - [Dvojí metr na násilí](#dvojí-metr-na-násilí)
     - [Nebezpečí nečinnosti](#nebezpečí-nečinnosti)
  - [**Část III(e): Účinky na zastánce**](#část-iiie-účinky-na-zastánce)
-    - ["Legalizace" násilí ](#"legalizace"-násilí-)
+    - ["Legalizace" násilí](#"legalizace"-násilí)
     - [Výmluvy pro násilí](#výmluvy-pro-násilí)
     - [Charita díky násilí](#charita-díky-násilí)
     - [Zastánci brutality](#zastánci-brutality)
@@ -673,10 +673,168 @@ Ve skutečnosti, pokud je něco hříchem, pak je to slepá poslušnost "autorit
 
 ## Hrdost být okraden
 
+Jedním z nejbizarnějších důsledků víry v autoritu je, že způsobuje, že se oběti "státní" agrese cítí *povinny* být obětí a že se cítí špatně, pokud se *vyhnou* tomu, aby se stali obětí. Ukázkovým příkladem je občan, který prohlašuje, že je hrdý na to, že platí "daně". I když člověk věří, že část toho, čeho se vzdává, je použita na financování užitečných věcí (silnice, pomoc chudým atd.), být hrdý na to, že mu bylo vyhrožováno a že byl k financování takových věcí donucen, je stejně divné. Hrdost na to, že je člověk "zákonů dbalým daňovým poplatníkem", není důsledkem toho, že pomohl lidem, což mohl udělat mnohem účinněji na dobrovolné bázi; hrdost pramení z toho, že věrně poslouchal příkazy domnělé "autority". Analogicky může mít člověk dobrý pocit z toho, že dobrovolně obdaroval někoho v nouzi, ale nebyl by hrdý na to, že se nechal okrást chudákem. Pravděpodobně jediná situace, kdy se někdo chlubí tím, že byl k něčemu donucen, nastává v souvislosti s člověkem, který se domnívá, že je povinen poslouchat domnělou "autoritu".
+
+Lidé, kteří byli vycvičeni k tomu, aby považovali poslušnost za ctnost, se chtějí cítit dobře, když odevzdávají "státu" to, co si vydělali. A tak s pomocí politické propagandy halucinují, že jejich "příspěvky" vlastně pomáhají společnosti jako celku. Mluví, jako by placení "daní" znamenalo "vracení společnosti" nebo "investování do země". Taková rétorika, jakkoli je běžná, je logicky nesmyslná, protože předpokládá, že každý z jednotlivců, kteří tvoří "společnost" a "zemi", nějak dluží skupině jako celku, ale není jí nic dlužen. To, co lidé ve skutečnosti dělají, když platí "daně", je, že dávají peníze nikoli "společnosti" nebo "zemi", ale politikům, kteří tvoří vládnoucí třídu, aby je utratili, jak se jim zlíbí. Z toho plyne, jakkoli je to zvláštní, že "lid" může mít prospěch jako celek, když je každý z "lidu" okrádán jednotlivě. Představa, že "společnému dobru" lépe poslouží, když politici utratí peníze všech, než kdyby každý člověk utratil své vlastní peníze, je přinejmenším podivná. V poslední době se lež o tom, že "daně" slouží společnému dobru, stává průhlednější, protože "státy" utrácejí astronomické částky za věci, které zjevně slouží elitě na úkor společnosti a lidstva. Patří sem mimo jiné válečná propaganda, přímé mnohamiliardové přerozdělovací programy ve prospěch nejbohatších lidí na světě ("bailouts") a "státní" převzetí různých segmentů ekonomiky (např. zdravotnictví).
+
+Ve skutečnosti neexistuje téměř nic, co by průměrný člověk mohl finančně podpořit a co by bylo pro společnost a lidstvo obecně méně užitečné než placení "daní". Ať už člověk považuje za užitečné cokoli - školy, silnice, obranu, pomoc chudým atd. - by mohl stejně snadno podpořit i bez politiků a "státu". Přesto mnoho lidí výslovně vyjadřuje hrdost na to, že odevzdali plody své práce svým pánům, že "zaplatili daně". Uvažte, jak by se pohlíželo na někoho, kdo by hrdě prohlásil: "Lhal jsem ve svém daňovém přiznání, vyhnul jsem se odevzdání 3 000 dolarů státu a místo toho jsem ty tři tisíce dolarů věnoval opravdu dobré charitě." Mnozí lidé by takového člověka stále odsuzovali za jeho "zločinnou" neloajalitu vůči pánům, i když by jeho činy posloužily lidstvu lépe, než kdyby "zaplatil daně". Je to proto, že hrdost, kterou mnozí lidé vyjadřují, nepramení z pomoci lidstvu, ale z poslušnosti "vrchnosti".
+
+Je jen malá nebo žádná šance, že by někdo dobrovolně přispěl svým vlastním majetkem na každý z programů a schémat, které jsou nyní financovány prostřednictvím "státu". A pokud odevzdává peníze jen proto, že ho k tomu donutil nějaký "zákon" nebo jiná "autorita", a pak vyjadřuje hrdost na to, že tak učinil, v podstatě se chlubí tím, že byl násilně ovládán, přesně tak, jak může být důkladně indoktrinovaný otrok hrdý na to, že dobře slouží svému pánovi. Je velký rozdíl mezi dobrým pocitem z toho, že dobrovolně podpořil nějakou záslužnou věc, a hrdostí na to, že se podřídil. Namísto toho, aby byly pohoršeny urážkou a nespravedlností, že jsou nuceně ovládány a vykořisťovány - vlastně namísto toho, aby to vůbec uznaly za nespravedlnost - cítí mnohé oběti "státního" útlaku hlubokou loajalitu ke svým vládcům.
+
 ## Hrdost být ovládán
 
-## Dobří platí zlým
+Pokud lze otroka přesvědčit, že by měl být otrokem, že jeho zotročení je správné a legitimní, že je právoplatným majetkem svého pána a že má povinnost produkovat pro svého pána co nejvíce, pak není třeba ho fyzicky utlačovat. Jinými slovy, zotročení mysli činí zotročení těla zbytečným. A to je přesně to, co víra v autoritu dělá: učí lidi, že je morálně ctnostné, aby svůj čas, úsilí a majetek, stejně jako svobodu a kontrolu nad vlastním životem odevzdali vládnoucí třídě.
+
+Mnoho lidí vyjadřuje hrdost na to, že jsou "zákonů dbalými daňovými poplatníky", což znamená pouze to, že dělají to, co jim politici nařídí, a dávají politikům peníze. Když jsou konfrontováni s myšlenkou, že není správné, aby byli násilně zbavováni plodů své práce, i když se tak děje "legálně", tito lidé často vehementně hájí ty, kteří je nadále okrádají, a trvají na tom, že takové okrádání je pro lidskou civilizaci nezbytné. (Samozřejmě nepoužívají k popisu situace výraz "okrádání", ačkoli jsou si dobře vědomi toho, co by se jim stalo, kdyby odmítli platit.) Stejně tak, když někdo vznese námitky proti výši daní nebo jiné násilné kontrole, kterou nad ním "stát" vykonává, ostatní, kteří jsou také utlačováni, často odsoudí toho, kdo vznáší námitky, a řeknou mu, že pokud se mu nelíbí, jak se s ním zachází, měl by opustit zemi. Znevažování kolegy, který je obětí nátlaku, za to, že si na něj stěžuje, je neklamnou známkou toho, že se člověk ve skutečnosti pyšní svým vlastním zotročením.
+
+Frederick Douglass, bývalý otrok, byl svědkem a popsal přesně tento jev mezi svými spoluotroky, z nichž mnozí byli hrdí na to, jak tvrdě pracovali pro své pány a jak věrně dělali, co se jim řeklo. Z jejich pohledu byl otrok na útěku hanebným zlodějem, který se "ukradl" pánovi.
+
+Douglass popsal, jak důkladně byli mnozí otroci indoktrinováni, a to do té míry, že skutečně věřili, že jejich vlastní zotročení je spravedlivé a oprávněné:
+
+"*Zjistil jsem, že k tomu, aby byl otrok spokojený, je třeba, aby byl nemyslící. Je třeba zatemnit jeho morální a duševní zrak a pokud možno zničit sílu rozumu. Musí být schopen nepostřehnout v otroctví žádné nesrovnalosti; musí být donucen cítit, že otroctví je správné; a k tomu ho lze přivést jen tehdy, když přestane být člověkem.*"
+
+Ačkoli se otroctví již nepraktikuje otevřeně, mentalita loajální podřízenosti zůstává. Většina lidí dnes nevidí žádné nesrovnalosti v tom, že vládnoucí třída může násilím vydírat a ovládat všechny ostatní, a ve skutečnosti má pocit, že takové vydírání a útlak jsou správné, a to do té míry, že mnozí cítí skutečný stud, jsou-li přistiženi, že si nechávají to, co vydělají, a řídí svůj vlastní život. Jedna věc je cítit stud, když vás někdo přistihne při krádeži, podvodu nebo agresi. Ale něco jiného je, když někdo cítí stud za to, že udělal něco, co by nebýt nařízení ("zákonů") politiků považoval za naprosto přípustné. Takový stud nepramení z nemorálnosti samotného činu; pramení pouze z pomyslné nemorálnosti neuposlechnutí "autority", tj. z "porušení zákona".
+
+Když je například průměrný občan přistižen, jak "podvádí" na daních, nemá na autě registrační nálepku, kouří marihuanu nebo dělá některou z tisíců dalších věcí, které nepředstavují agresi vůči někomu jinému, ale které přesto vládnoucí třída prohlásila za "nezákonné", obvykle se v něm objeví pocit viny. Bez pocitu povinnosti uposlechnout by se na přistižení a potrestání agenty "státu" pohlíželo stejně jako na pokousání psem: jako na nepříjemný následek, kterému je třeba se vyhnout, ale který v sobě nemá žádný morální prvek. Místo toho má většina lidí alespoň do určité míry pocit, že přistižení při páchání "zločinu" bez oběti svědčí o nějakém jejich morálním selhání, protože neudělali, co se jim řeklo. Touha mít souhlas "autority" je téměř u každého nesmírně silná, a to v míře, kterou si ani sami neuvědomují. Všudypřítomné poselství autoritářství má mnohem hlubší psychologický dopad, než si většina lidí dokáže představit, jak ukázaly Milgramovy experimenty. Téměř každý člověk prožívá dramatický emocionální stres a nepohodlí, kdykoli se dostane do konfliktu s "autoritou", a vynaloží velké úsilí, bez ohledu na to, jakých zlých činů se musí dopustit, aby si získal souhlas svých pánů.
+
+Dokonce i terminologie, kterou lidé používají, ukazuje, jak účinně byli vycvičeni, aby se cítili morálně povinni poslouchat "autoritu". To se projevuje v takových jednoduchých frázích, jako je "To nesmíš" nebo dokonce "To nemůžeš", když se mluví o nějakém chování, které bylo vládnoucí třídou prohlášeno za "nezákonné". Takové fráze nevyjadřují pouze potenciální nepříznivý důsledek, ale také naznačují, že vzhledem k tomu, že nějaký čin byl pány zakázán, je jeho spáchání špatné, nedovolené, nebo dokonce nemožné (tj. "To nemůžeš!").
+
+Pohled na statistická fakta ukazuje sílu víry v autoritu. Ve Spojených státech vydírá asi 100 000 zaměstnanců IRS asi 200 000 000 obětí. Na každého zloděje tedy vychází asi dva tisíce okradených. Toho by nikdy nebylo možné dosáhnout pouhou hrubou silou; pokračuje to jen proto, že většina okradených cítí *povinnost* být okradena a představuje si, že takové okrádání je legitimní a platné. Totéž platí o mnoha jiných "zákonech", které jsou obecně dodržovány, přestože jejich vykonavatelé jsou vždy v obrovské přesile těch, které se snaží kontrolovat. Vysoká míra dodržování zákonů nepramení ani tak ze strachu z trestu, jako spíše z pocitu ovládaných, že mají morální povinnost spolupracovat na svém podrobení.
+
+## Dobro platí zlo
+
+I když se jedinec nikdy nestane osobní obětí "orgánů činných v trestním řízení", nikdy se nedostane do střetu s policií a "stát" má na jeho každodenní život jen malý nebo vůbec žádný přímý vliv, mýtus autority má stále dramatický dopad nejen na jeho vlastní život, ale také na to, jak jeho existence ovlivňuje svět kolem něj. Například miliony poddajných poddaných, kteří cítí povinnost odevzdávat státu část toho, co vydělají, platit svůj "spravedlivý podíl" na "daních", neustále financují nejrůznější snahy a aktivity, které by tito lidé jinak nefinancovali - které by jinak nefinancoval téměř nikdo, a které by tedy jinak neexistovaly. Prostřednictvím "daní" ti, kdo se prohlašují za "stát", zabavují milionům obětí téměř nepochopitelné množství času a úsilí a přeměňují je na palivo pro agendu vládnoucí třídy. Například miliony lidí, kteří jsou proti válce, jsou nuceni ji financovat prostřednictvím "daní". Produkt jejich času a úsilí je použit k umožnění něčeho, proti čemu morálně vystupují.
+
+Totéž platí pro státem řízené programy přerozdělování bohatství (např. "sociální dávky"), Ponziho schémata (např. "sociální zabezpečení"), takzvanou "válku proti drogám" atd. Většina těchto "státních" programů by neexistovala, kdyby mezi obyvatelstvem nepanovala víra v morální povinnost platit "daně". Dokonce i "vládní" programy, které údajně mají ušlechtilé cíle - jako je ochrana veřejnosti a pomoc chudým - se stávají nafouklými, neefektivními a zkorumpovanými monstry, která by téměř nikdo dobrovolně nepodporoval, kdyby neexistoval "zákon", který by to vyžadoval.
+
+Kromě plýtvání, korupce a destruktivních věcí, které "stát" dělá se zabaveným bohatstvím, je tu také méně zřejmá otázka, co by lidé se svými penězi dělali jinak. Tím, že "stát" bere bohatství producentům, aby sloužilo jejím vlastním cílům, zbavuje zároveň producenty možnosti prosazovat své vlastní cíle. Někdo, kdo odevzdá 1 000 dolarů na "daních" vládnoucí třídě, může nejen financovat válku, proti níž morálně vystupuje, ale je také zbaven možnosti dát 1 000 dolarů do úspor nebo věnovat 1 000 dolarů nějaké charitě, kterou považuje za užitečnou, nebo zaplatit někomu 1 000 dolarů za nějaké terénní úpravy. Škoda způsobená mýtem autority je tedy dvojí: nutí lidi financovat věci, o nichž nejsou přesvědčeni, že jsou dobré pro ně samotné nebo pro společnost, a zároveň jim brání financovat věci, které považují za hodnotné. Jinými slovy, podřízenost "autoritě" nutí lidi jednat způsobem, který je v té či oné míře v přímém rozporu s jejich vlastními prioritami a hodnotami.
+
+Dokonce i lidé, kteří si představují, že jejich "daně" konají dobro tím, že staví silnice, pomáhají chudým, platí policii a podobně, by téměř jistě nefinancovali "státní" verzi těchto služeb, přinejmenším ne ve stejné míře, kdyby se k tomu necítili nuceni. Jakákoli soukromá charitativní organizace, která by měla takovou neefektivitu, korupci a záznamy o zneužívání jako AFDC, HUD, Medicare a další "státní" programy, by rychle ztratila všechny své dárce. Jakákoli soukromá společnost, která by byla stejně drahá, zkorumpovaná a neefektivní jako "státní" programy v oblasti infrastruktury, by ztratila všechny své zákazníky. Jakákoli soukromá ochranná služba, která by byla tak často přistižena při zneužívání, napadání a dokonce zabíjení neozbrojených, nevinných lidí, by neměla žádné zákazníky. Jakákoli soukromá společnost, která by tvrdila, že poskytuje obranu, ale svým zákazníkům by tvrdila, že potřebuje každý týden miliardu dolarů na vedení dlouhodobé války na druhém konci světa, by měla jen málo přispěvatelů, pokud vůbec nějaké, a to i mezi těmi, kteří nyní takové vojenské operace verbálně podporují.
+
+Pocitu povinnosti platit "daně" zřejmě jen málo brání skutečnost, že "stát" je notoricky známý svou nehospodárností a neefektivitou. Zatímco miliony "daňových poplatníků" se snaží vyjít s penězi a přitom platí svůj "spravedlivý podíl" na "daních", politici plýtvají miliony na směšně hloupé projekty - od zkoumání kravských prdů přes stavbu mostů do nikam až po placení zemědělcům, aby *nepěstovali* určité plodiny, a tak dále do nekonečna - a další miliardy se prostě "ztratí", aniž by se zjistilo, kam se poděly. Mnoho z toho, co lidé umožňují platbou "daní", je však nejen promrháno, ale pro společnost zcela destruktivní. Zřejmým příkladem je "válka proti drogám". Kolik lidí by dobrovolně přispělo soukromé organizaci, jejímž deklarovaným cílem je odvléct miliony nenásilných jedinců od jejich přátel a rodin a zavřít je do klecí? Dokonce i mnozí Američané, kteří dnes uznávají, že "válka proti drogám" je naprostým selháním, nadále prostřednictvím "daní" poskytují finanční prostředky, které umožňují pokračovat v ničení doslova milionů životů.
+
+Dokonce i ti nejhlasitější kritici nejrůznějšího zneužívání ze strany stále rostoucího policejního státu jsou často mezi těmi, kteří toto zneužívání umožňují tím, že na něj poskytují finanční prostředky. Ať už se jedná o zjevný útlak, korupci nebo pouhou byrokratickou neefektivitu, každý může poukázat alespoň na několik věcí, ve kterých se "státem" nesouhlasí. A přesto, protože byl vycvičen k poslušnosti vůči "autoritě", bude se i nadále cítit povinen poskytovat finanční prostředky, které umožňují tytéž neúspěšné, zkorumpované a utlačovatelské "státní" aktivity, které kritizuje a proti kterým vystupuje. Málokdy si někdo všimne zřejmého rozporu, který je vlastní někomu, kdo se cítí *povinen* financovat věci, které považuje za špatné.
+
+Lidé pracující pro neautoritářské organizace mohou být samozřejmě také neefektivní nebo zkorumpovaní, ale když vyjde najevo, co dělají, jejich zákazníci je mohou jednoduše přestat financovat. To je přirozený korekční mechanismus v lidské interakci, který je však vírou v autoritu zcela poražen. Kolik je lidí, kteří nejsou v současné době nuceni financovat nějaký "stántí" program nebo činnost, s nimiž morálně nesouhlasí? Velmi málo, pokud vůbec někdo. Proč tedy tito lidé stále financují věci, které jsou podle nich pro společnost destruktivní? Protože jim to nařizuje "autorita" a protože věří, že je dobré "autoritu" poslouchat. V důsledku toho se nadále vzdávají plodů své práce, aby poháněli stroj na utlačování - stroj, který by jinak neexistoval a nemohl existovat. "Státy" žádné bohatství nevytvářejí; to, co utratí, musí nejprve někomu jinému vzít. Každý "stát", včetně těch nejutlačovatelštějších režimů v dějinách, byl financován placením "daní" loajálními, produktivními poddanými. Díky víře v autoritu bude bohatství vytvořené miliardami lidí i nadále využíváno nikoli k tomu, aby sloužilo hodnotám a prioritám lidí, kteří na jeho vytvoření pracovali, ale aby sloužilo plánům těch, kteří především touží po nadvládě nad svými bližními. Třetí říši umožnily miliony německých "daňových poplatníků", kteří cítili povinnost platit. Sovětské impérium umožnily miliony lidí, kteří cítili povinnost dát státu vše, co požadoval. Každá invazní armáda, každé dobyvačné impérium bylo vybudováno z bohatství, které bylo odebráno produktivním lidem. Ničitelé byli vždy financováni tvůrci; zloději byli vždy financováni výrobci; díky víře v autoritu byly programy zla vždy financovány úsilím dobra. A tak tomu bude i nadále, dokud nebude tato nejnebezpečnější pověra odstraněna. Až výrobci přestanou cítit morální povinnost financovat parazity a uzurpátory, ničitele a vládce, tyranie uvadne, protože bude vyhladovělá. Do té doby budou dobří lidé nadále dodávat zdroje, které zlí lidé potřebují k uskutečňování svých destruktivních plánů.
 
 ## Vlastnoručně kopaný hrob
 
+Je smutné, že víra v autoritu dokonce vede k tomu, že se lidé cítí povinni napomáhat svému zotročení, útlaku a někdy i smrti. Ve skutečnosti je jen malé procento "státního" donucení prováděno vymahateli "autority"; většinu z něj provádějí její *oběti*. Vládnoucí třída lidem pouze říká, že jsou povinni dělat určité věci, a většina lidí se podřizuje, aniž by docházelo ke skutečnému vynucování. Jako jeden z působivých příkladů lze uvést, že desítky milionů Američanů každoročně vyplňují zdlouhavé a nepřehledné formuláře známé jako "daňové přiznání", čímž se v podstatě vydírají. Pokud by oběti IRS souhlasily s tím, že zaplatí, pouze v případě, že "stát" zjistí jejich údajné daňové povinnosti, systém by se zhroutil. Každé daňové přiznání je v podstatě podepsaným udáním, přičemž oběť vyděračského systému nejenže prozradí vše o svých financích - v podstatě vyslýchá sama sebe - ale dokonce si spočítá i částku, která bude ukradena, aby zloději nemuseli.
+
+Všechny neproduktivní a nemilé nepříjemnosti a byrokratické obtíže, kterým se lidé vystavují jen proto, že jim bylo řečeno, že to "zákon" vyžaduje, však nejsou ničím ve srovnání s vážnějšími příznaky víry v autoritu. Na základě mytologie o "službě vlasti" a "zákonů" ukládajících vojenskou brannou povinnost ("mobilizaci") se miliony lidí v průběhu dějin staly *vrahy* pro stát. Jen malá část z nich (tzv. "zbězi") se kdy postavila na odpor a obvykle se jim dostalo opovržení ze strany jejich krajanů, protože byli zbabělci nebo jim chyběl "patriotismus".
+
+V případě mnoha "zákonů" může být obtížné rozlišit mezi lidmi, kteří poslouchají z prostého strachu z trestu, a těmi, kteří poslouchají z pocitu morální povinnosti podřídit se příkazům politiků ("zákonu"). U vojenské branné povinnosti je však snadné rozlišit, protože "dodržování" je obvykle mnohem *nebezpečnější* než jakýkoli trest, kterým "stát" hrozí těm, kdo se odmítají podřídit. Pokud je na výběr "vyhovět" a případně zemřít strašlivou smrtí na nějakém bojišti na druhém konci světa, nebo neuposlechnout a případně jít do vězení, je nepravděpodobné, že by samotná hrozba byla důvodem, proč se tolik lidí "registruje" a dostaví se do "služby", když jsou povoláni. Stručně řečeno, míra dodržování "branné povinnosti", přinejmenším v minulosti, zcela jasně ukazuje, že většina lidí raději spáchá vraždu nebo zemře, než aby se nepodřídila "autoritě". Těžko by se našel lepší důkaz toho, jak mocná je pověra autority: že tisíce a tisíce jinak civilizovaných, mírumilovných lidských bytostí opustí domov, někdy cestují přes půl světa, aby zabíjely nebo umíraly jen proto, že jim to nařídila příslušná vládnoucí třída.
+
+Každý voják je vykonavatelem i obětí pověry autority, ať už se přihlásil dobrovolně, nebo byl odveden. Bojovat na obranu nevinných proti agresorům je ušlechtilý cíl a často je záměrem těch, kteří vstoupí do armády. V hierarchickém vojenském režimu se však voják stává spíše nástrojem mašinérie než odpovědným jedincem. Místo aby se řídil vlastním svědomím, je zcela ovládán rozkazy, které dostává prostřednictvím velitelského řetězce. A pokaždé, když ho jeho poslušnost vede k něčemu nemorálnímu (což se stává poměrně často), ubližuje nejen svým obětem, ale i sám sobě. Jako jeden z příkladů lze uvést, že po válce ve Vietnamu se mnoho amerických vojáků vrátilo domů s nepoškozeným tělem, ale s hlubokými psychickými problémy. Těžko říci, nakolik bylo jejich psychické poškození důsledkem toho, že byli svědky krveprolití, a nakolik důsledkem toho, že krveprolití osobně *vytvářeli*. Dlouhodobý strach z bezprostřední smrti může samozřejmě způsobit vážné psychické problémy, stejně jako způsobení smrti druhým.
+
+Násilné konfrontace mohou být značně stresující, a to i tehdy, když se jedinec cítí zcela oprávněně, například když brání svou rodinu před útočníkem. Ale zapojit se do smrtelného boje, kdy nikdo, včetně bojujících, zřejmě nemá jasnou představu o účelu nebo ospravedlnění konfliktu, jako tomu bylo ve Vietnamu, zřejmě přidává další stupeň psychického traumatu. Jak potvrdili mnozí vojáci v bojích, jakmile se ocitnou ve válečném pekle, jakýkoli nejasný, ale ušlechtilý důvod nebo ospravedlnění boje je obvykle zapomenut a jediné, co zůstane, je touha zůstat naživu a pomoci svým přátelům zůstat naživu - oběma těmto cílům mnohem lépe poslouží, když se vrátí domů nebo když do armády vůbec nevstoupí. A přesto je počet lidí, kteří jednoduše odejdou, poměrně malý, a to z jednoho prostého důvodu: protože by to představovalo akt neposlušnosti vůči domnělé "autoritě". A průměrný voják, i když má odvahu a sílu vrhnout se do smrtelného boje, nemá odvahu a sílu neposlechnout domnělou "autoritu". Stejně jako v mnoha jiných případech autoritářského nátlaku oběti vojenské branné povinnosti téměř vždy výrazně převyšují počet těch, kteří se ji snaží zavést. I když je lidem "legálně" přikázáno obětovat svůj rozum a tělo ve prospěch tyranských válek o území, prostá pasivní neposlušnost jakékoli významné části "branců" by válečnou mašinérii zastavila. Jaký trest by byl horší než výsledek podřízení se? Obvyklým výsledkem boje ve válce je dlouhodobý teror, fyzická a duševní bolest a utrpení, zmrzačení nebo smrt. Přesto se i poté, co se na vlastní oči přesvědčí o hrůzách války, jen málokdo dokáže přimět k tomu, aby neuposlechl "autoritu", svlékl uniformu a odešel.
+
+O síle víry v autoritu svědčí dobře zdokumentovaná (i když zřídka diskutovaná) skutečnost, že zvěrstva páchaná na německých Židech nacisty byla často prováděna ve spolupráci a za pomoci *židovské* policie, jako například ve varšavském ghettu. V jejich kultuře, stejně jako v téměř každé jiné kultuře, byli lidé tak důkladně přesvědčeni, že poslušnost je ctnost, že i když "vládl" někdo nový, stále se cítili povinni dělat, co se jim řekne, i kdyby to znamenalo násilné utlačování vlastních příbuzných. Co je však možná ještě více znepokojující (ale nesporné), je skutečnost, že mnoho milionů lidí v historii napomáhalo svému *vlastnímu* vyhlazování, protože jim to "autorita" nařídila. Například během holocaustu mnoho set tisíc Židů z vlastní moci nastoupilo do dobytčích vagónů právě těch vlaků, které je měly odvézt na smrt, aniž by se pokusili skrýt, utéct nebo klást odpor. Proč? Protože jim to nařídili ti, kteří se vydávali za "autoritu". I když je nepochybné, že ne všichni věděli, co přesně je na druhém konci čeká, přesto se vydali do péče mašinérie, která jim zjevně chtěla ublížit.
+
+Člověk má určitý pocit pohodlí a bezpečí, když se podřizuje a poslouchá. Víra, že věci jsou v rukou někoho jiného, a důvěra, že někdo jiný dá věci do pořádku, je způsob, jak se vyhnout odpovědnosti. Autoritářská indoktrinace zdůrazňuje myšlenku, že ať se děje cokoli, pokud prostě budete dělat, co se vám řekne, a dělat to, co dělají všichni ostatní, bude všechno v pořádku a ti, kdo jsou za to zodpovědní, vás odmění a ochrání. Počty mrtvých při jednom "vládním" zvěrstvu za druhým ukazují, jak scestné takové přesvědčení skutečně je. Kdyby oběti "legálního" útlaku a vraždění prostě *nepomáhaly*, i kdyby neprovedly ani špetku násilného odporu, svět by dnes vypadal úplně jinak. Kdyby nacisté museli každého Žida, živého či mrtvého, fyzicky odnést do plynových komor či krematorií, míra vraždění by byla dramaticky nižší. Kdyby každý otrok prodaný do otroctví odmítl pracovat, brzy by neexistoval obchod s otroky. Kdyby musel berňák vypočítat dlužnou daň a pak ji přímo vybrat od každého "daňového poplatníka", neexistovalo by už žádné federální "zdanění". Zkrátka, kdyby *oběti* autoritářského vydírání, obtěžování, sledování, přepadávání, únosů a vražd jednoduše přestaly *napomáhat* svému vlastnímu útlaku, tyranie by se zhroutila. A kdyby lidé šli ještě o krok dál a násilím se postavili na odpor, tyranie by se zhroutila ještě rychleji. Ale odpor, ať už pasivní nebo násilný, vyžaduje, aby se lidé nepodřídili vnímané "autoritě", a toho většina lidí není psychologicky schopna. Nakonec je to víra v autoritu mezi *obětmi* útlaku, dokonce více než víra vládnoucí třídy a jejich vykonavatelů, která umožňuje, aby tyranie a nelidskost člověka vůči člověku pokračovala v tak velkém měřítku.
+
 ## Účinky na skutečné zločince
+
+Paradoxně v situacích, kdy by poslušnost skutečně zlepšila lidské chování, nemá "autorita" žádný účinek. Například ti jedinci, kterým jejich vlastní svědomí nebrání v okrádání nebo napadání bližních, protože se nestarají o obvyklé normy dobra a zla, se také nestarají o to, co jim "autorita" nařizuje. Pouze ti, kteří se snaží být dobří, se někdy cítí nuceni poslouchat "autoritu". Víra v autoritu je vírou v morálku - je to představa, že poslušnost je morálně dobrá. Na ty, kteří se nestarají o to, co je považováno za "dobré" - právě na lidi, jejichž svědomí nestačí k tomu, aby se chovali civilizovaně - nemá mýtus autority žádný vliv. Jinak řečeno, pouze ti, kteří nepotřebují být ovládáni - tj. ti, kteří se již snaží žít morálně - cítí nějakou povinnost poslouchat ovládající. Mezitím ti, kteří představují skutečnou hrozbu pro mírumilovnou společnost, stejně necítí žádnou morální povinnost poslouchat jakoukoli "autoritu". Obecně řečeno, všechny příkazy "autority", včetně ve své podstatě ospravedlnitelných příkazů, jako je "nekrást" a "nevraždit", jsou vždy buď zbytečné (pokud jsou zaměřeny na dobré lidi), nebo neúčinné (pokud jsou zaměřeny na špatné lidi). Těžko si lze představit situaci, kdy by se jedinec jinak bez výčitek svědomí dopustil krádeže, přepadení nebo vraždy, ale cítil by se provinile, kdyby porušil "zákony", které takové jednání zakazují.
+
+Zde je třeba rozlišovat mezi morální povinností a strachem z odplaty. Zloděj, který necítí morální povinnost zdržet se krádeže, nebude cítit ani morální povinnost dodržovat "zákony" proti krádeži. Pokud však bude vnímat ohrožení vlastní bezpečnosti, ať už ze strany "policie" nebo kohokoli jiného, může ho to od okradení odradit. Tento odstrašující účinek však vychází výhradně z hrozby násilí, nikoli z tvrzené "autority", která je v pozadí této hrozby. To znamená, že domnělá "autorita" nikdy nezabrání skutečným zločinům a že účinný odstrašující systém vůbec nevyžaduje "autoritu". O tom se podrobněji hovoří níže.
+
+# Část III(d): Účinky na pozorovatele
+
+## Hřích nevzdoru
+
+## "Legální" zlo jako dobro
+
+## Povinnost jednat špatně
+
+## Dvojí metr na násilí
+
+## Nebezpečí nečinnosti
+
+# Část III(e): Účinky na zastánce
+
+## "Legalizace" násilí
+
+## Výmluvy pro násilí
+
+## Charita díky násilí
+
+## Zastánci brutality
+
+## Nucené výhody
+
+## Útok na obranu
+
+## Násilí jak výchozí stav
+
+## Jak mýtus vítězí nad ctností
+
+## "Liberální" zbabělost
+
+## "Konzervativní" zbabělost
+
+## Opravdová tolerance
+
+## Velký, malý, levý, pravý, vždycky zlý
+
+## Žádná objektivní vzor
+
+## Účinky na zastánce svobody
+
+## Pravidla hry
+
+## Legitimizace útlaku
+
+## Libertariánský protimluv
+
+## Stejný jako starý pán
+
+## Směs moudrosti a šílenství
+
+## Mýtus o smlouvě
+
+# Část IV: Život bez pověry
+
+## Řešení
+
+## Skutečnost je anarchie
+
+## Strach ze svobody
+
+## Pohled na jiný svět
+
+## Svět bez vládců
+
+## Myslet jinak, mluvit jinak
+
+## Výuka morálky vs. výuka autority
+
+## Žádný geniální plán
+
+## Vládneš ty, vládnu já
+
+## Jiná společnost
+
+## Jiný druh pravidel
+
+## Organizace bez "autority"
+
+## Obrana bez "autority"
+
+## Odrazující a podněcující prostředky
+
+## Anarchie v praxi
+
+## Anti-autoritářská výchova
+
+## Na půli cesty
+
+## Cesta ke spravedlnosti
+
+## Vedlejší účinky mýtu
+
+## Jaká může být společnost
+
+## Přijetí reality
+
+## Pointa znovu a naposled
