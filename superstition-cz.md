@@ -20,7 +20,7 @@ ISBN 978-1-62407-169-0
     - [Identifikace nepřítele](#identifikace-nepřítele)
     - [Nic takového neexistuje](#nic-takového-neexistuje)
     - [Odnože pověry](#odnože-pověry)
-    - [Pokusy o racionalizaci iracionálního](#pokusy-o-racionalizaci-iracionálního)
+    - [Pokusy racionalizovat iracionální](#pokusy-racionalizovat-iracionální)
     - [Mýtus souhlasu](#mýtus-souhlasu)
     - [Další mytologie](#další-mytologie)
     - [Tajemná přísada](#tajemná-přísada)
@@ -29,7 +29,7 @@ ISBN 978-1-62407-169-0
     - [Opuštění mýtu](#opuštění-mýtu)
     - [Proč je mýtus lákavý](#proč-je-mýtus-lákavý)
     - [Náboženství státu](#náboženství-státu)
-    - [Jen víc nemorálního násilí](#jen-víc-nemorálního-násilí)
+    - [Víc nemorálního násilí](#víc-nemorálního-násilí)
     - [Kdo jim dal právo?](#kdo-jim-dal-právo)
     - [Určování morálky](#určování-morálky)
     - [Nelze neusuzovat](#nelze-neusuzovat)
@@ -50,7 +50,7 @@ ISBN 978-1-62407-169-0
     - [Hrdost být okraden](#hrdost-být-okraden)
     - [Hrdost být ovládán](#hrdost-být-ovládán)
     - [Dobro platí zlo](#dobro-platí-zlo)
-    - [Vlastnoručně kopaný hrob](#vlastnoručně-kopaný-hrob)
+    - [Kopou si vlastní hrob](#kopou-si-vlastní-hrob)
     - [Účinky na skutečné zločince](#účinky-na-skutečné-zločince)
  - [**Část III(d): Účinky na pozorovatele**](#část-iiid-účinky-na-pozorovatele)
     - [Hřích nevzdoru](#hřích-nevzdoru)
@@ -61,7 +61,7 @@ ISBN 978-1-62407-169-0
  - [**Část III(e): Účinky na zastánce**](#část-iiie-účinky-na-zastánce)
     - ["Legalizovaná" agrese](#"Legalizovaná"-agrese)
     - [Výmluvy pro agresi](#výmluvy-pro-agresi)
-    - [Charita cestou násilí](#charita-cestou-násilí)
+    - [Charita pomocí násilí](#charita-pomocí-násilí)
     - [Zastánci brutality](#zastánci-brutality)
     - [Nucené benefity](#nucené-benefity)
     - [Útok na obranu](#útok-na-obranu)
@@ -70,7 +70,7 @@ ISBN 978-1-62407-169-0
     - ["Liberální" zbabělost](#"liberální"-zbabělost)
     - ["Konzervativní" zbabělost](#"konzervativní"-zbabělost)
     - [Opravdová tolerance](#opravdová-tolerance)
-    - [Velký, malý, levý, pravý, vždycky zlý](#velký,-malý,-levý,-pravý,-vždycky-zlý)
+    - [Velký, malý, levý, pravý, stále zlý](#velký,-malý,-levý,-pravý,-stále-zlý)
     - [Žádný objektivní standard](#žádný-objektivní-standard)
     - [Účinky na zastánce svobody](#účinky-na-zastánce-svobody)
     - [Pravidla hry](#pravidla-hry)
@@ -83,11 +83,11 @@ ISBN 978-1-62407-169-0
     - [Řešení](#řešení)
     - [Skutečnost je anarchie](#skutečnost-je-anarchie)
     - [Strach ze svobody](#strach-ze-svobody)
-    - [Pohled na jiný svět](#pohled-na-jiný-svět)
+    - [Jiný pohled na svět](#jiný-pohled-na-svět)
     - [Svět bez vládců](#svět-bez-vládců)
     - [Myslet jinak, mluvit jinak](#myslet-jinak,-mluvit-jinak)
     - [Výuka morálky vs. výuka autority](#výuka-morálky-vs.-výuka-autority)
-    - [Žádný geniální plán](#žádný-geniální-plán)
+    - [Žádný hlavní plán](#žádný-hlavní-plán)
     - [Vládneš ty, vládnu já](#vládneš-ty,-vládnu-já)
     - [Jiná společnost](#jiná-společnost)
     - [Jiný druh pravidel](#jiný-druh-pravidel)
@@ -95,11 +95,11 @@ ISBN 978-1-62407-169-0
     - [Obrana bez "autority"](#obrana-bez-"autority")
     - [Odrazující a podněcující prostředky](#odrazující-a-podněcující-prostředky)
     - [Anarchie v praxi](#anarchie-v-praxi)
-    - [Anti-autoritářská výchova](#anti-autoritářská-výchova)
+    - [Antiautoritářská výchova](#antiautoritářská-výchova)
     - [Na půli cesty](#na-půli-cesty)
     - [Cesta ke spravedlnosti](#cesta-ke-spravedlnosti)
     - [Vedlejší účinky mýtu](#vedlejší-účinky-mýtu)
-    - [Jaká může být společnost](#jaká-může-být-společnost)
+    - [Jaká by mohla být společnost](#jaká-by-mohla-být-společnost)
     - [Přijetí reality](#přijetí-reality)
     - [Pointa znovu a naposled](#pointa-znovu-a-naposled)
 
@@ -221,7 +221,7 @@ Ve zcela reálném smyslu lidé, kteří nosí odznaky a uniformy, nejsou všemi
 
 Zeměpisné lokality jsou samozřejmě velmi reálné, ale pojem "země" neoznačuje pouze místo. Vždy odkazuje na politickou "jurisdikci" (další termín vycházející z víry v "autoritu"). Když lidé mluví o lásce ke své zemi, málokdy jsou schopni vůbec definovat, co to znamená, ale nakonec jediné, co slovo "země" může znamenat, není místo nebo lidé nebo nějaký abstraktní princip či pojem, ale pouze území, na kterém si určitá parta nárokuje právo vládnout. V kontextu této skutečnosti je pojem lásky k vlasti poněkud zvláštní myšlenkou; vyjadřuje jen o málo víc než psychologickou náklonnost k ostatním subjektům, které ovládá stejná vládnoucí třída - což vůbec není to, co si většina lidí představuje pod pojmem národní loajalita a vlastenectví. Lidé mohou pociťovat lásku k určité kultuře nebo k určitému místu a lidem, kteří tam žijí, nebo k nějakému filozofickému ideálu a zaměňovat to za lásku k vlasti, ale v konečném důsledku je "země" prostě oblast, ve které si určitý "stát" nárokuje právo vládnout. Tohle je to, co určuje hranice, a jsou to právě tyto hranice, které definují "zemi."
 
-## Pokusy o racionalizaci iracionálního
+## Pokusy racionalizovat iracionální
 
 Lidé, kteří se považují za vzdělané, svobodomyslné a pokrokové, se nechtějí považovat za otroky pána, nebo dokonce za poddané vládnoucí třídy. Z tohoto důvodu bylo provedeno mnoho racionalizace a zastírání ve snaze popřít základní povahu "státu" jako vládnoucí třídy. Bylo vytvořeno mnoho verbální gymnastiky, zavádějící terminologie a mytologie, které se snaží zastřít skutečný vztah mezi "vládou" a jejich poddanými. Tato mytologie se učí děti jako "občanská nauka," přestože většina z ní je zcela nelogická a odporuje všem poznatkům. Následující text se zabývá několika oblíbenými typy propagandy, které se používají k zamlžování podstaty "autority."
 
@@ -335,7 +335,7 @@ Víra ve stát nezajistí, aby se všichni shodli; pouze vytváří příležito
 
 Ironií je, že etatisté ve své snaze zajistit spravedlnost pro všechny ve skutečnosti prosazují legitimizaci zla. Pravdou je, že jediné, co víra v autoritu dělá a co může dělat, je *vnášet do společnosti více nemorálního násilí*. To není nešťastná náhoda ani vedlejší účinek v zásadě dobré myšlenky. Je to truismus vycházející z podstaty víry v autoritu, což lze snadno logicky dokázat.
 
-## Jen víc nemorálního násilí
+## Víc nemorálního násilí
 
 Téměř všichni souhlasí s tím, že někdy je fyzická síla oprávněná a někdy ne. Ačkoli se lidé mohou přít o detaily a "šedé zóny", obecně se uznává, že *agresivní* síla - iniciování násilí proti jiné osobě - je neoprávněná a nemorální. Patří sem krádeže, napadení a vraždy, ale i nepřímé formy agrese, jako je vandalismus a podvod. Naproti tomu použití síly na obranu nevinných je všeobecně přijímáno jako oprávněné a morální, dokonce ušlechtilé. Oprávněnost použití síly je dána situací, v níž je použita, nikoli tím, *kdo* ji používá. Zjednodušeně řečeno, sílu, kterou má právo použít každý, lze označit za "dobrou sílu" a sílu, kterou nemá právo použít nikdo, za "špatnou sílu". (Čtenář může použít svá vlastní měřítka, a logika zde bude stále platit.)
 
@@ -717,7 +717,7 @@ Dokonce i ti nejhlasitější kritici nejrůznějšího zneužívání ze strany
 
 Lidé pracující pro neautoritářské organizace mohou být samozřejmě také neefektivní nebo zkorumpovaní, ale když vyjde najevo, co dělají, jejich zákazníci je mohou jednoduše přestat financovat. To je přirozený korekční mechanismus v lidské interakci, který je však vírou v autoritu zcela poražen. Kolik je lidí, kteří nejsou v současné době nuceni financovat nějaký "stántí" program nebo činnost, s nimiž morálně nesouhlasí? Velmi málo, pokud vůbec někdo. Proč tedy tito lidé stále financují věci, které jsou podle nich pro společnost destruktivní? Protože jim to nařizuje "autorita" a protože věří, že je dobré "autoritu" poslouchat. V důsledku toho se nadále vzdávají plodů své práce, aby poháněli stroj na utlačování - stroj, který by jinak neexistoval a nemohl existovat. "Státy" žádné bohatství nevytvářejí; to, co utratí, musí nejprve někomu jinému vzít. Každý "stát", včetně těch nejutlačovatelštějších režimů v dějinách, byl financován placením "daní" loajálními, produktivními poddanými. Díky víře v autoritu bude bohatství vytvořené miliardami lidí i nadále využíváno nikoli k tomu, aby sloužilo hodnotám a prioritám lidí, kteří na jeho vytvoření pracovali, ale aby sloužilo plánům těch, kteří především touží po nadvládě nad svými bližními. Třetí říši umožnily miliony německých "daňových poplatníků", kteří cítili povinnost platit. Sovětské impérium umožnily miliony lidí, kteří cítili povinnost dát státu vše, co požadoval. Každá invazní armáda, každé dobyvačné impérium bylo vybudováno z bohatství, které bylo odebráno produktivním lidem. Ničitelé byli vždy financováni tvůrci; zloději byli vždy financováni výrobci; díky víře v autoritu byly programy zla vždy financovány úsilím dobra. A tak tomu bude i nadále, dokud nebude tato nejnebezpečnější pověra odstraněna. Až výrobci přestanou cítit morální povinnost financovat parazity a uzurpátory, ničitele a vládce, tyranie uvadne, protože bude vyhladovělá. Do té doby budou dobří lidé nadále dodávat zdroje, které zlí lidé potřebují k uskutečňování svých destruktivních plánů.
 
-## Vlastnoručně kopaný hrob
+## Kopou si vlastní hrob
 
 Je smutné, že víra v autoritu dokonce vede k tomu, že se lidé cítí povinni napomáhat svému zotročení, útlaku a někdy i smrti. Ve skutečnosti je jen malé procento "státního" donucení prováděno vymahateli "autority"; většinu z něj provádějí její *oběti*. Vládnoucí třída lidem pouze říká, že jsou povinni dělat určité věci, a většina lidí se podřizuje, aniž by docházelo ke skutečnému vynucování. Jako jeden z působivých příkladů lze uvést, že desítky milionů Američanů každoročně vyplňují zdlouhavé a nepřehledné formuláře známé jako "daňové přiznání", čímž se v podstatě vydírají. Pokud by oběti IRS souhlasily s tím, že zaplatí, pouze v případě, že "stát" zjistí jejich údajné daňové povinnosti, systém by se zhroutil. Každé daňové přiznání je v podstatě podepsaným udáním, přičemž oběť vyděračského systému nejenže prozradí vše o svých financích - v podstatě vyslýchá sama sebe - ale dokonce si spočítá i částku, která bude ukradena, aby zloději nemuseli.
 
@@ -867,7 +867,7 @@ Myšlení téměř každého etatisty je paradoxní. Na jedné straně etatisté
 
 Dokud násilí páchají ti, kteří se prohlašují za "autoritu" a kteří si představují, že mají výjimku z obvyklých pravidel morálky (nekrást, nenapadat, nevraždit atd.), mohou si i ti, kteří jsou nejhorlivějšími zastánci různých "daní" a jiných "zákonů", nadále představovat, že jsou mírumilovní, soucitní a nenásilní lidé. Někteří si dokonce představují, že jsou pacifisté. (Protože vše, co "stát" dělá, se děje prostřednictvím síly nebo hrozby silou, nic takového jako etatistický pacifista neexistuje a ani existovat nemůže. I když samozřejmě ne všichni anarchisté jsou pacifisté, všichni skuteční pacifisté jsou anarchisté). Existuje mnoho způsobů - několika z nich se budeme věnovat níže - jak jinak slušní a ctnostní lidé schvalují agresi a napadání, zastrašování a loupeže, protože věří, že je naprosto přípustné, aby se nadlidské, mýtické božstvo známé jako "stát" dopouštělo takových činů, a proto věří, že je naprosto morální a ctnostné, aby *požádali* "stát" o spáchání takových činů.
 
-## Charita cestou násilí
+## Charita pomocí násilí
 
 Typický etatista je hluboce schizofrenní, protože si je zároveň zcela vědom a zcela si neuvědomuje, že osobně obhajuje rozsáhlé používání násilí proti ostatním. Dramatickým příkladem mohou být ti, kteří se považují za milující a soucitné, protože podporují "státní" programy na pomoc chudým. To, co prostřednictvím podpory "sociálních" programů doslova obhajují, je masivní vydírání, v němž jsou mnohé miliony lidských bytostí okrádány o miliardy dolarů prostřednictvím hrozby zavření do klece. Zastánci takové "charity prostřednictvím násilí" si představují, že jsou ctnostní a starostliví kvůli tomu, co mohou potřební dostat, a přitom se zcela distancují od vyhrožování, zastrašování, obtěžování, násilného zabavování a věznění, o nichž vědí, že k nim dochází a které jsou, jak vědí, nezbytné pro každý program "sociální péče". Díky tomuto bizarnímu selektivnímu popírání si mohou být ti, kdo věří ve vládu, zcela vědomi hrubé síly, kterou jsou takové "zákony" prováděny, a přitom si zdánlivě neuvědomují, že oni sami takovou hrubou sílu *podporují*, když takové "zákony" požadují.
 
@@ -975,7 +975,7 @@ Tyrani vždy vyznávali ty nejušlechtilejší úmysly. Ale i dobré úmysly, po
 
 Stojí také za povšimnutí, že politická levice *i pravice* jsou obě zamilované do konceptu "rovnosti", přičemž politická pravice prosazuje "rovnost před zákonem" a levice prosazuje rovnost výsledků. Ale ani jedna z nich ve skutečnosti nechce skutečnou rovnost, protože obě *vyjímají* vládnoucí třídu z této "rovnosti". Skutečná rovnost vylučuje jakýkoli "stát", protože vládce a poddaný si zjevně nikdy nemohou být rovni. Etatisté ve skutečnosti chtějí rovnost mezi otroky, ale obrovskou nerovnost mezi otroky a pány. To opět ukazuje, že "stát" považují za nadlidi, protože je nikdy nenapadne, když prosazují "rovnost pro všechny", že by se rovnost měla týkat i politiků a policie.
 
-## Velký, malý, levý, pravý, vždycky zlý
+## Velký, malý, levý, pravý, stále zlý
 
 Každý, kdo obhajuje "stát" v jakékoli podobě - ať už liberální, konzervativní, minimální, nezávislý, komunistický, fašistický, konstitucionalistický nebo jakoukýkoli jiný - věří, že představitelé "autority" by se měli ve velkém měřítku dopouštět činů, které by, kdyby je dělal kdokoli jiný, byly všeobecně uznávány jako nespravedlivé a nemorální. Všichni etatisté věří, že lidé, kteří tvoří "stát", mají *výjimku* ze základní lidské morálky a nejenže *mohou* dělat věci, na které ostatní nemají právo, ale měli by a *musí* takové věci dělat pro (domnělé) dobro společnosti. Typ a míra agrese se liší, ale *všichni* etatisté agresi obhajují.
 
@@ -1101,7 +1101,7 @@ Mytologie kolem ústavy tvrdí, že sloužila jako jakási smlouva mezi lidem a 
 
 ## Strach ze svobody
 
-## Pohled na jiný svět
+## Jiný pohled na svět
 
 ## Svět bez vládců
 
@@ -1109,7 +1109,7 @@ Mytologie kolem ústavy tvrdí, že sloužila jako jakási smlouva mezi lidem a 
 
 ## Výuka morálky vs. výuka autority
 
-## Žádný geniální plán
+## Žádný hlavní plán
 
 ## Vládneš ty, vládnu já
 
@@ -1125,7 +1125,7 @@ Mytologie kolem ústavy tvrdí, že sloužila jako jakási smlouva mezi lidem a 
 
 ## Anarchie v praxi
 
-## Anti-autoritářská výchova
+## Antiautoritářská výchova
 
 ## Na půli cesty
 
@@ -1133,7 +1133,7 @@ Mytologie kolem ústavy tvrdí, že sloužila jako jakási smlouva mezi lidem a 
 
 ## Vedlejší účinky mýtu
 
-## Jaká může být společnost
+## Jaká by mohla být společnost
 
 ## Přijetí reality
 
