@@ -1,5 +1,4 @@
 ![](cover.jpeg)
-![](title.jpeg)
 
 *The Most Dangerous Superstition*, Second Edition
 

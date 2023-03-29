@@ -1,5 +1,4 @@
 ![](cover.jpeg)
-![](title.jpeg)
 
 *Nejnebezpečnější pověra*, druhá edice
 
